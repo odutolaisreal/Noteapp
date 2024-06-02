@@ -1,3 +1,0 @@
-# noteapp
-# noteapp
-# Noteapp
